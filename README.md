@@ -1,6 +1,6 @@
 # Highveld Cultivated Wellness
 
-React + Vite site for the health consultancy at Robin's Corner Centre, Robindale, Randburg.
+React + Vite site for the shop at Robin's Corner Centre, Robindale, Randburg.
 
 ## Run locally
 

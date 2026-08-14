@@ -33,8 +33,8 @@ export function Hero() {
           on the Highveld.
         </h1>
         <p className="lede">
-          A discreet health consultancy and botanical wellness shop at Robin’s
-          Corner Centre. Education first. Five stars, twenty-four times over.
+          A discreet wellness shop at Robin’s Corner Centre. Flower, edibles,
+          oils, and the extras — five stars, twenty-four times over.
         </p>
         <div className="hero-cta">
           <a className="btn btn-gold" href={store.whatsapp}>

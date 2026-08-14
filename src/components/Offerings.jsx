@@ -5,7 +5,7 @@ export function Offerings() {
     <section className="offerings" id="offerings">
       <div className="section-head">
         <p className="kicker">What we offer</p>
-        <h2>Four ways we look after you.</h2>
+        <h2>What’s on the shelf.</h2>
       </div>
       <ol className="offer-list">
         {offerings.map((item) => (

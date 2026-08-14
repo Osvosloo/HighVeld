@@ -15,8 +15,7 @@ export function Footer() {
         </nav>
       </div>
       <p className="footer-note">
-        Educational wellness guidance. Not a substitute for medical advice.
-        Consult a registered practitioner for diagnosis or treatment.
+        Products for sale in store. Not medical advice or a clinic.
       </p>
       <p className="footer-copy">
         © {new Date().getFullYear()} {store.name}. Robindale, Randburg.

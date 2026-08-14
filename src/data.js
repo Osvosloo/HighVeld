@@ -2,7 +2,7 @@ export const store = {
   name: 'Highveld Cultivated Wellness',
   shortName: 'Highveld',
   tagline: 'Cultivated wellness on the Highveld.',
-  category: 'Health consultant · Alternative & holistic health',
+  category: 'Wellness shop',
   rating: 5.0,
   reviewCount: 24,
   phone: '076 019 0327',
@@ -43,23 +43,23 @@ export const store = {
 export const offerings = [
   {
     num: '01',
-    title: 'Wellness consultation',
-    copy: 'Sit down with a health consultant who listens first. We help you find a grounded, plant-based path that fits how you actually live.',
+    title: 'Flower',
+    copy: 'House selection, premium, smalls, and pre-rolls — whatever is on the tray this week.',
   },
   {
     num: '02',
-    title: 'Cultivated botanicals',
-    copy: 'A considered in-store selection of cultivated wellness products — chosen for quality, education, and the Highveld way of doing things slowly and well.',
+    title: 'Edibles',
+    copy: 'Gummies, chocolate, baked treats, and other infused goods from the shelf.',
   },
   {
     num: '03',
-    title: 'Educational guidance',
-    copy: 'Our Instagram is purely educational, and so is the shop floor. Ask questions. Leave with clarity, not a sales pitch.',
+    title: 'Oils & topicals',
+    copy: 'Droppers, capsules, balms, and the rest of the care range we actually stock.',
   },
   {
     num: '04',
-    title: 'A calm Randburg space',
-    copy: 'Shop 6 at Robin’s Corner is a discreet, welcoming stop on Malibongwe Drive — private enough to talk, close enough to visit after work.',
+    title: 'A discreet Randburg shop',
+    copy: 'Shop 6 at Robin’s Corner is a straightforward stop on Malibongwe Drive — in, sorted, out.',
   },
 ]
 

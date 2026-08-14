@@ -14,8 +14,7 @@ export function Reviews() {
         <h2>Perfect score. {store.reviewCount} neighbours said so.</h2>
         <p>
           Highveld Cultivated Wellness is rated {store.rating.toFixed(1)} on
-          Google — health consultancy, holistic care, and a shop floor people
-          actually recommend.
+          Google — a Randburg shop people actually recommend.
         </p>
         <a
           className="btn btn-gold"
