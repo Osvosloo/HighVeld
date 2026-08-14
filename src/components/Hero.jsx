@@ -8,7 +8,18 @@ export function Hero() {
     <section className="hero" id="top">
       <div className="hero-media" aria-hidden="true">
         <div className="hero-wash" />
-        <Grass />
+        <div className="hero-grass">
+          <svg viewBox="0 0 1440 200" preserveAspectRatio="none">
+            <path
+              fill="#c5e6e1"
+              d="M0 90C120 20 240 20 360 90C480 160 600 160 720 90C840 20 960 20 1080 90C1200 160 1320 160 1440 90V200H0Z"
+            />
+            <path
+              fill="#ffffff"
+              d="M0 130C120 80 240 80 360 130C480 180 600 180 720 130C840 80 960 80 1080 130C1200 180 1320 180 1440 130V200H0Z"
+            />
+          </svg>
+        </div>
       </div>
       <div className="hero-copy">
         <p className="eyebrow">
@@ -52,20 +63,5 @@ export function Hero() {
         </dl>
       </div>
     </section>
-  )
-}
-
-function Grass() {
-  return (
-    <svg className="hero-grass" viewBox="0 0 1440 280" preserveAspectRatio="none">
-      <path
-        fill="#69B6AC"
-        d="M0 280V168c48-22 86-70 128-66 52 4 72 78 124 82 46 4 62-62 110-58s78 70 128 66c54-4 70-80 122-76 48 4 64 72 112 70 56-2 74-86 128-80 48 6 62 78 110 76 50-2 68-72 116-68 42 4 62 58 102 62v88H0Z"
-      />
-      <path
-        fill="#185845"
-        d="M0 280v-72c40-18 78-52 118-48 44 4 62 58 106 62 48 4 66-52 112-48 50 4 70 60 118 56 44-4 62-58 108-54 52 4 72 64 120 60 46-4 64-62 110-58 48 4 70 58 116 56 40-2 62-48 98-50v94H0Z"
-      />
-    </svg>
   )
 }

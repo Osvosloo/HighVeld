@@ -1,0 +1,90 @@
+{
+  "updated": "August 2026",
+  "note": "Product shelf only. Edit this file to add, remove, or retitle items. Leave image blank to use the placeholder tile. Price can be a number, a range, or 'Ask in store'.",
+  "products": [
+    {
+      "name": "House flower",
+      "category": "Flower",
+      "detail": "Replace with the cultivar on the shelf this week.",
+      "price": "Ask in store",
+      "image": ""
+    },
+    {
+      "name": "Premium flower",
+      "category": "Flower",
+      "detail": "Add a short note — lineage, grower, or how it feels.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Smalls",
+      "category": "Flower",
+      "detail": "Same plant, smaller buds. Swap this line when stock turns.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Infused gummies",
+      "category": "Edibles",
+      "detail": "Placeholder — add flavour and any allergen notes.",
+      "price": "Ask in store",
+      "image": ""
+    },
+    {
+      "name": "Chocolate",
+      "category": "Edibles",
+      "detail": "Placeholder for the current bar or bite.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Baked treat",
+      "category": "Edibles",
+      "detail": "Replace with whatever came out of the kitchen.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Dropper oil",
+      "category": "Oils",
+      "detail": "Placeholder for the house oil.",
+      "price": "Ask in store",
+      "image": ""
+    },
+    {
+      "name": "Capsule pack",
+      "category": "Oils",
+      "detail": "Add count and a one-line note.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Balm",
+      "category": "Topicals",
+      "detail": "Placeholder for the current jar.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Rolling papers",
+      "category": "Accessories",
+      "detail": "Keep everyday extras on the grid too.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Grinder",
+      "category": "Accessories",
+      "detail": "Replace with the model you actually stock.",
+      "price": "",
+      "image": ""
+    },
+    {
+      "name": "Pre-roll",
+      "category": "Flower",
+      "detail": "Single or pack — update when the tray changes.",
+      "price": "Ask in store",
+      "image": ""
+    }
+  ]
+}

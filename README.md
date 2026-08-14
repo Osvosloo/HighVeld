@@ -16,4 +16,17 @@ npm run build
 npm run preview
 ```
 
-Hours on the site follow the Google listing: 08:00–20:00. Confirm Sunday hours with the shop if they differ.
+## Update the menu
+
+Edit `public/menu.json`. Each product needs a `name` and `category`. `detail`, `price`, and `image` are optional — leave `image` as `""` for the coloured placeholder tile.
+
+There is no cart or checkout. After a live deploy, replacing `menu.json` on the host updates the shelf without a rebuild.
+
+## Hosting
+
+1. Push `main`
+2. Repo **Settings → Pages → Source: GitHub Actions**
+3. The site goes live at the Pages URL
+
+
+

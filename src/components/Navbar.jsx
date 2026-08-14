@@ -5,6 +5,7 @@ import { Logo } from './Logo.jsx'
 const links = [
   ['About', '#about'],
   ['Offerings', '#offerings'],
+  ['Menu', '#menu'],
   ['Reviews', '#reviews'],
   ['Visit', '#visit'],
 ]
