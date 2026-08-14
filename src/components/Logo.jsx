@@ -1,4 +1,4 @@
-const logoSrc = `${import.meta.env.BASE_URL}logo.png`
+const logoSrc = `${import.meta.env.BASE_URL}logo.png?v=2`
 
 export function Logo() {
   return (

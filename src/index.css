@@ -197,6 +197,7 @@ p {
   max-width: none;
   display: block;
   object-fit: contain;
+  background: transparent;
 }
 
 @media (min-width: 860px) {
