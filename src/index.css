@@ -716,7 +716,7 @@ p {
 .reviews {
   padding: 5.5rem 1.4rem;
   background:
-    linear-gradient(180deg, rgba(228, 141, 127, 0.12), transparent 42%),
+    linear-gradient(180deg, rgba(105, 182, 172, 0.16), transparent 42%),
     var(--paper);
 }
 
@@ -735,10 +735,14 @@ p {
 }
 
 .stars {
-  color: var(--peach);
+  color: var(--sage);
   letter-spacing: 0.28em;
   font-size: 1.2rem;
   margin-bottom: 1.2rem;
+}
+
+.reviews .kicker {
+  color: var(--sage);
 }
 
 .reviews h2 {
