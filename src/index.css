@@ -188,17 +188,20 @@ p {
   align-items: center;
   text-decoration: none;
   color: inherit;
+  flex-shrink: 0;
 }
 
 .logo-img {
-  height: 56px;
+  height: 64px;
   width: auto;
+  max-width: none;
   display: block;
+  object-fit: contain;
 }
 
 @media (min-width: 860px) {
   .logo-img {
-    height: 68px;
+    height: 88px;
   }
 }
 

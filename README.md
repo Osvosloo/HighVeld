@@ -27,6 +27,3 @@ There is no cart or checkout. After a live deploy, replacing `menu.json` on the 
 1. Push `main`
 2. Repo **Settings → Pages → Source: GitHub Actions**
 3. The site goes live at the Pages URL
-
-
-

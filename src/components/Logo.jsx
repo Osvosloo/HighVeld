@@ -1,8 +1,10 @@
+const logoSrc = `${import.meta.env.BASE_URL}logo.png`
+
 export function Logo() {
   return (
     <a href="#top" className="logo" aria-label="Highveld Cultivated Wellness">
       <img
-        src="/logo.png"
+        src={logoSrc}
         alt="Highveld Cultivated Wellness"
         className="logo-img"
       />
