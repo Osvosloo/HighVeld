@@ -18,7 +18,7 @@ export function Reviews() {
         </p>
         <a
           className="btn btn-gold"
-          href="https://www.google.com/search?q=Highveld+Cultivated+Wellness+Randburg+reviews"
+          href="https://www.google.com/search?q=Highveld+Cultivated+Wellness+Randburg+reviews#"
         >
           Read Google reviews
         </a>
