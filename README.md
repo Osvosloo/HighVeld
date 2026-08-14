@@ -1,6 +1,6 @@
 # Highveld Cultivated Wellness
 
-React + Vite site for the shop at Robin's Corner Centre, Robindale, Randburg.
+https://osvosloo.github.io/HighVeld/
 
 ## Run locally
 
